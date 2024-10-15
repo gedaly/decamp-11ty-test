@@ -1,10 +1,9 @@
----
 items:
-  - text: Menu One
+  - text: My Films
     url: "#"
-  - text: Menu Two
+  - text: Acting
     url: "#"
-  - text: Menu Three
+  - text: Courses
     url: "#"
   - text: Blog
-    url: "/blog"
+    url: /blog
